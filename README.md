@@ -1,7 +1,6 @@
 # SEG2106 
 
-### Assignments from SEG2106 Winter 2021
-- [A1]()
-- [A2]()
-- [A3]()
+### Assignments/Labs from SEG2106 Winter 2021
+- [A3](https://github.com/GColetti/SEG2106/tree/main/A3)
 - [A4]()
+- [L7]()
